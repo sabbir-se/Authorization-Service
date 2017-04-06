@@ -152,6 +152,13 @@
             <version>1.4.7</version>
         </dependency>
 
+	<!--Check Authorization-->
+        <dependency>
+            <groupId>com.dsi.checkauthorization</groupId>
+            <artifactId>check-authorization</artifactId>
+            <version>1.0</version>
+	</dependency>
+
         <!--GSON Object-->
         <dependency>
             <groupId>com.google.code.gson</groupId>
